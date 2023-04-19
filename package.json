@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.2.0",
+    "mongoose": "^7.0.4",
     "mqtt": "^4.3.7",
     "node": "^19.8.1",
     "serverless": "^3.29.0",
