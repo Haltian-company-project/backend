@@ -57,3 +57,29 @@ let reading;
 
 
 
+
+
+// const AirQuality = mongoose.model('AirQuality', dataSchema);
+
+
+// subscribe to a topic
+// client.on('connect', () => {
+//     console.log('Connected MQTT') 
+//   client.subscribe('cloudext/json/pr/fi/prfi00airmonitoring/#')
+// })
+
+// io.on("connection", socket => {
+//   // handle incoming messages
+//   console.log('listenning')
+// client.on('message', (topic, message) => {
+//   reading = JSON.parse(message.toString())
+//   reading['timestamp'] = new Date()
+//   console.log('Latest Reading', reading)
+
+//   socket.emit("readings", JSON.stringify(reading));
+//   console.log(`Received message on topic "${topic}"`)
+//   })
+// })
+
+
+
