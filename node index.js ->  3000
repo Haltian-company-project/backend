@@ -1,2 +1,0 @@
- node index.js ->  3000
- ngrok http 3000
